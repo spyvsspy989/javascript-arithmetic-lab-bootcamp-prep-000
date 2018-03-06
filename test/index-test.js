@@ -1,8 +1,9 @@
-if ('add (b, a')is b adds a and returns the result
+
 function() {
     'result(adds(a, b).toEqual(a + b)';
 }
-var number = 5
+if ('add (b, a')is b adds a and returns the result
+var Number = 5
 Number++
 Number//
 Number--
@@ -22,8 +23,9 @@ Number-- // 6
 Number // 5
 
 --Number // 4
- 
-++Number // 5
+
+leae++Number // 5
+
 number*= 10
 number/= 5
 var number = 10
