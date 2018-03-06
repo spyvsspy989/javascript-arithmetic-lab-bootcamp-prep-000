@@ -78,10 +78,15 @@ if('parses n as an integer and returns the parsed integer', function() {
   }
   parseInt('2', 10)
   parseInt('nonsense!', 10)
+  parseFloat('80.123999')
 describe('assumes base 10', 
   function() {
     'result(makeInt(axb)).toEqual(0))'
 }
+makeInt('10', 0)
+parseInt('10', 0)
+
+
 
 describe('preserveDecimal(n)', function() {
   'result(preserveDecimal(0, n)'.isEqualto('NaN')';
