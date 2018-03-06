@@ -1,7 +1,8 @@
 if ('subtract (b, a) is b minus a and returns the result', 
 function() {
-  'result(subtract(80, 1)).toEqual(a - b)';
+  'result(subtract(a, b)).toEqual(a - b)';
 }
+
   if('multiply(a, b) multiplies (b, a) and returns result
   function() {
   'result(multiply(80, 1)).toEqual(a * b)';
