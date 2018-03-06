@@ -42,6 +42,7 @@ number --
 number //
 --number
 ++number
++= 3
 if('inc(n) increments n and returns the result, 
   function() {
   'result(inc(a, b)).toEqual(a + b)';
