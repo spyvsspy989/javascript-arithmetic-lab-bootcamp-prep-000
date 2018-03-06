@@ -4,7 +4,7 @@ function() {
 }
 var number = 5
 Number++
-Number//divideby6
+Number//
 Number--
 Number//
 
