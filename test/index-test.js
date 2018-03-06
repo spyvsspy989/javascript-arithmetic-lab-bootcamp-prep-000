@@ -1,10 +1,10 @@
 if ('subtract (b, a) is b minus a and returns the result', 
 function() {
   'result(subtract(a, b)).toEqual(a - b)';}
-}
-multiplies (A*b);
+};
+/*multiplies (A*b)/*
 if('multiply(a, b) multiplies (b, a) and returns result
-function(multiplies)' {
+function(multiplies){
 'result(multiply(80, 1))isEqualto(1, 80)'
   'result = (80)';
 }
