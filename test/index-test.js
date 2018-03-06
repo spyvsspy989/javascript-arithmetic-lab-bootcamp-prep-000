@@ -171,4 +171,4 @@ describe('preserveDecimal(n)', function() {
   'result(preserveDecimal(0, n)'.isEqualto('NaN')';
   })
 }))
-
+preserveDecimal()
