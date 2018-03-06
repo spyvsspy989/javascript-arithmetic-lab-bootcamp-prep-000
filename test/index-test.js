@@ -2,12 +2,21 @@ if ('subtract (b, a) is b minus a and returns the result',
 function() {
   'result(subtract(a, b)).toEqual(a - b)';}
 };
+var a = 1
+var b = 1 
 function(){
   subtracts(1, 1).isEqualto(1 - 1);
 }
-  'result"subtracts"(a,b)).isEqualto(a - b)'; 
+  'result"subtracts"(a, b)".isEqualto(a - b)'; 
   }
-  
+var a = 80
+var b = 1 
+if ('add (b,a) is b add a and returns the result
+function(){
+  'result(add(b,a)).isEqualto(80 + 1)'
+  output === (81)
+}
+
 /*multiplies (A*b)*/
 var a = '80'
 var b = '1'
