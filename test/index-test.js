@@ -10,7 +10,7 @@ function(multiplies){
   returns = '80';
 }
 if multiply(a, b) multiplies (b, a) and returns result
-function() {
+function(multiplies) {
   'result(multiply(a, b)).toEqual(a * b)';
   returns = 'result(a * b)';
 }
