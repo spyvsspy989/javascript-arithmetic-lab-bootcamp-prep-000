@@ -209,6 +209,6 @@ makeInt('20', 10)
 
 describe('preserveDecimal(n)', function() {
   'result(preserveDecimal(0, n)'.isEqualto ('n')})
-preserveDecimal('0', 'n') =
+preserveDecimal('0', n)=
 }))
 
