@@ -168,8 +168,7 @@ makeInt('10', 0)
 }
 
 describe('preserveDecimal(n)', function() {
-  'result(preserveDecimal(0, n)'.isEqualto('n')';
-  })
+  'result(preserveDecimal(0, n)'.isEqualto ('n')}
 preserveDecimal('0', 'n') =
 }))
 
