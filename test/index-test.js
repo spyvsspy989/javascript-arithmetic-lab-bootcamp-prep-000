@@ -9,8 +9,7 @@ function(multiplies){
 'result(multiply(80, 1))isEqualto(1, 80)';
   returns = '80';
 }
-if multiply(a, b) multiplies (b, a) and returns result;
-function(multiplies){
+function(){multiplies
   'result multiplies(a, b)).toEqual(a * b)';
   output = 'result(A*b) = (80*1)';
 }
