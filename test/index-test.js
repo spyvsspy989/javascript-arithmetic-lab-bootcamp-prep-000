@@ -10,6 +10,8 @@ function(){
 }
   'result"subtracts"(a, b)".isEqualto(a - b)'; 
   }
+  a subtract(b) === (a - b);
+  
 var a = 80
 var b = 1 
 if ('add (b,a) is b add a and returns the result
