@@ -1,6 +1,3 @@
-var (a, b)
-var a = 80
-var b = 1 
 if ('subtract (b, a) is b minus a and returns the result', 
 function() {
   'result(subtract(80, 1)).toEqual(a - b)';
