@@ -69,6 +69,13 @@ console.log(number) // 5
 
 parseInt('2', 10) // 2
 
+parseInt('2.2222', 10)
+
+parseInt('nonsense!', 10)
+returns(NaN)
+
+parseFloat('80.1239999')
+
 }
 }
 
