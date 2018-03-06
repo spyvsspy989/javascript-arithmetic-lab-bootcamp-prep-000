@@ -74,8 +74,10 @@ if('dec(n) decrements n and returns the result',
 
 describe('makeInt(n)', function() {
 if('parses n as an integer and returns the parsed integer', function() {
-    'result(makeInt(80, 1)).toEqual(a parsed b)';
+    'result(makeInt(b, a)).toEqual(a parsed b)';
   }
+  parseInt('2', 10)
+  parseInt('nonsense!', 10)
 describe('assumes base 10', 
   function() {
     'result(makeInt(axb)).toEqual(0))'
