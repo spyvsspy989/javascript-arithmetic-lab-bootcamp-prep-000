@@ -5,7 +5,7 @@ function() {
 function(){
   subtracts(1, 1).isEqualto(1 - 1);
 }
-  'result(subtracts(a,b)).isEqualto(a - b)'; 
+  'result"subtracts"(a,b)).isEqualto(a - b)'; 
   }
   
 /*multiplies (A*b)*/
