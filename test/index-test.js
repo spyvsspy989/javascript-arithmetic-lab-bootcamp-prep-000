@@ -9,10 +9,10 @@ function(multiplies){
 'result(multiply(80, 1))isEqualto(1, 80)';
   returns = '80';
 }
-if multiply(a, b) multiplies (b, a) and returns result
+if multiply(a, b) multiplies (b, a) and returns result;
 function(multiplies) {
-  'result(multiply(a, b)).toEqual(a * b)';
-  returns = 'result(a * b)';
+  'result(multiplies(a, b)).toEqual(a * b)';
+  returns = '(a * b) = (b * a)';
 }
 
 if('divide(a, b) divides a by b and returns the result', function() {
