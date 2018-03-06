@@ -40,6 +40,8 @@ number ++
 number //
 number -- 
 number //
+--number
+++number
 if('inc(n) increments n and returns the result, 
   function() {
   'result(inc(a, b)).toEqual(a + b)';
