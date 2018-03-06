@@ -6,7 +6,7 @@ var number = 5
 Number++
 Number//divideby6
 Number--
-Number//d
+Number//
 
 
 if ('subtract (b, a) is b minus a and returns the result', 
