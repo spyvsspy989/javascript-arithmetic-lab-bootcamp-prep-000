@@ -214,5 +214,5 @@ function preserveDecimal() {
   'result(preserveDecimal(0, n)'.isEqualto ('n')})
 preserveDecimal('0', n) =
 }
-}))
+})
 
