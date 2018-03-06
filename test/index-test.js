@@ -5,8 +5,8 @@ function() {
 var number = 5
 Number++
 Number//divideby6
-subtracts(divideby6)
-Number
+Number--
+Number//d
 
 
 if ('subtract (b, a) is b minus a and returns the result', 
