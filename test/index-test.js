@@ -3,8 +3,8 @@ function() {
     'result(adds(a, b).toEqual(a + b)';
 }
 var number = 5
-add5
-divideby6
+Number++
+Number//divideby6
 subtracts(divideby6)
 Number
 
