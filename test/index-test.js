@@ -12,7 +12,7 @@ function(multiplies){
 if multiply(a, b) multiplies (b, a) and returns result;
 function(multiplies) {
   'result(multiplies(a, b)).toEqual(a * b)';
-  returns = '(a * b) = (b * a)';
+  output = 'result(A*b) = (80*1)';
 }
 
 if('divide(a, b) divides a by b and returns the result', function() {
