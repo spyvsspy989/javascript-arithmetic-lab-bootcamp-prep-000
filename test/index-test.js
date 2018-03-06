@@ -44,6 +44,8 @@ add5()
 
 console.log(number) // 8.333333333335
 
+parseInt('2.2222', 10)
+
 // reset number
 number = 10
 
