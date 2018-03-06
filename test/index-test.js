@@ -170,6 +170,6 @@ makeInt('10', 0)
 describe('preserveDecimal(n)', function() {
   'result(preserveDecimal(0, n)'.isEqualto('NaN')';
   })
-preserveDecimal('0', n) =
+preserveDecimal('0', 'n') =
 }))
 
