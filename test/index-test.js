@@ -88,6 +88,8 @@ console.log(number) // 3.333333333335
 add5()
  
 console.log(number) // 8.333333333335
+
+parseInt('2', 10) // 2
  
 // reset number
 number = 10
