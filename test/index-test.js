@@ -14,13 +14,32 @@ Number//
 5.0 / 2.5 = 
 var number = 5
  
-number++ // 5... hmmmm
+Number++ // 5
+Number // 6 -- 
+
+Number-- // 6
  
-number // 6 -- the number was incremented after it was evaluated
+Number // 5
+
+--Number // 4
  
-number-- // 6
- 
-number // 5
+++Number // 5
+number*= 10
+number/= 5
+var number = 10
+function()
+  add5() {
+    number += add5
+}
+function
+divideby3() {
+  number /=divideby3
+}
+divideby3()
+console.log(number)
+
+}
+}
 
 if ('subtract (b, a) is b minus a and returns the result', 
 function() {
