@@ -2,12 +2,12 @@ if ('subtract (b, a) is b minus a and returns the result',
 function() {
   'result(subtract(a, b)).toEqual(a - b)';}
 };
-/*multiplies (A*b)/*
-if('multiply(a, b) multiplies (b, a) and returns result
+/*multiplies (A*b)*/
+var a = '80'
+var b = '1'
 function(multiplies){
-'result(multiply(80, 1))isEqualto(1, 80)'
-  'result = (80)';
-}
+'result(multiply(80, 1))isEqualto(1, 80)';
+  returns = '80';
 }
 if('multiply(a, b) multiplies (b, a) and returns result
 function() {
