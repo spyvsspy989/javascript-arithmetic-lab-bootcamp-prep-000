@@ -1,11 +1,18 @@
 if ('subtract (b, a) is b minus a and returns the result', 
 function() {
-  'result(subtract(a, b)).toEqual(a - b)';
+  'result(subtract(a, b)).toEqual(a - b)';}
 }
-
-  if('multiply(a, b) multiplies (b, a) and returns result
-  function() {
-  'result(multiply(80, 1)).toEqual(a * b)';
+multiplies (A*b);
+if('multiply(a, b) multiplies (b, a) and returns result
+function(multiplies)' {
+'result(multiply(80, 1))isEqualto(1, 80)'
+  'result = (80)';
+}
+}
+if('multiply(a, b) multiplies (b, a) and returns result
+function() {
+  'result(multiply(a, b)).toEqual(a * b)';
+  return = 'result(a * b)';
 }
 
 if('divide(a, b) divides a by b and returns the result', function() {
