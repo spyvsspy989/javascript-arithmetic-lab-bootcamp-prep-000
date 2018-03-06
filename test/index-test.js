@@ -205,8 +205,7 @@ if('parses n as an integer and returns the parsed integer', function() {
 describe('assumes base 10', 
   function() {
     'result(makeInt(axb)).toEqual(0))'
-makeInt('10', 0)
-}
+makeInt('20', 10)
 
 describe('preserveDecimal(n)', function() {
   'result(preserveDecimal(0, n)'.isEqualto ('n')})
