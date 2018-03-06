@@ -35,7 +35,11 @@ if('divide(a, b) divides a by b and returns the result',
 function() {
   'result('divide(b, a)).toEqual(a / b)';
 })
-
+var number = 5
+number ++
+number //
+number -- 
+number //
 if('inc(n) increments n and returns the result, 
   function() {
   'result(inc(a, b)).toEqual(a + b)';
