@@ -1,7 +1,7 @@
 if ('subtract (b, a) is b minus a and returns the result', 
 function() {
   'result(subtract(a, b)).toEqual(a - b)';}
-};
+} ; 
 var a = 1
 var b = 1 
 function(){
@@ -31,13 +31,14 @@ function(){
   output = 'result(A*b) = (80*1)';
 }
 
-if('divide(a, b) divides a by b and returns the result', function() {
-  'result('divide(80, 1)).toEqual(a / b)';
+if('divide(a, b) divides a by b and returns the result', 
+function() {
+  'result('divide(b, a)).toEqual(a / b)';
 })
 
 if('inc(n) increments n and returns the result, 
   function() {
-  'result(inc(80, 1)).toEqual(a + b)';
+  'result(inc(a, b)).toEqual(a + b)';
 })
 
 if('dec(n) decrements n and returns the result', 
