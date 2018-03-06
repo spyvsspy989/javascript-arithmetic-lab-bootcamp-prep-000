@@ -8,10 +8,10 @@ Number//
 Number--
 Number//
 
-1 + 80 = 81
-60 - 40 = 20
-2 * 3.40 =  6.8
-5.0 / 2.5 = 2
+1 + 80 = 
+60 - 40 = 
+2 * 3.40 =  
+5.0 / 2.5 = 
 
 if ('subtract (b, a) is b minus a and returns the result', 
 function() {
