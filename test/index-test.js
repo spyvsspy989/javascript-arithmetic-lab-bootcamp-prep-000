@@ -1,17 +1,27 @@
+if ('add (b, a')is b adds a and returns the result
+function() {
+    'result(adds(a, b).toEqual(a + b)';
+}
+var number = 5
+add5
+divideby6
+subtracts(divideby6)
+Number
+
+
 if ('subtract (b, a) is b minus a and returns the result', 
 function() {
   'result(subtract(a, b)).toEqual(a - b)';}
 };
 
-var a = 1
-var b = 1 
+var a = 60
+var b = 40 
 function(){
-  subtracts(1, 1).isEqualto(1 - 1);
+  subtracts(a, b).isEqualto(a - b);
 }
   'result"subtracts"(a, b)".isEqualto(a - b)'; 
   }
-  a subtract(b) === (a - b)
-  
+
 var a = 80
 var b = 1 
 if ('add (b,a) is b add a and returns the result
