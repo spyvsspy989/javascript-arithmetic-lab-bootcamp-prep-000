@@ -82,8 +82,8 @@ if('parses n as an integer and returns the parsed integer', function() {
 describe('assumes base 10', 
   function() {
     'result(makeInt(axb)).toEqual(0))'
+makeInt('10', 0)
 }
-makeInt('10', 0))
 parseInt('10', 0)
 
 
