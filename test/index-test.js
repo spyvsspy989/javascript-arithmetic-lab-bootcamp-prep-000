@@ -166,9 +166,6 @@ describe('assumes base 10',
     'result(makeInt(axb)).toEqual(0))'
 makeInt('10', 0)
 }
-parseInt('10', 0)
-
-
 
 describe('preserveDecimal(n)', function() {
   'result(preserveDecimal(0, n)'.isEqualto('NaN')';
