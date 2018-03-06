@@ -15,6 +15,9 @@ if ('add (b,a) is b add a and returns the result
 function(){
   'result(add(b,a)).isEqualto(80 + 1)'
 }
+function(){
+  (1 + 80) = (80 + 1)
+}
 
 /*multiplies (A*b)*/
 var a = '80'
